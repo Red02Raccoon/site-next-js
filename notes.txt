@@ -1,0 +1,2 @@
+- global selectors (styled-jsx)
+- https://github.com/zeit/next.js#css-in-js
