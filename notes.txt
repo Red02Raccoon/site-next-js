@@ -1,2 +1,4 @@
 - global selectors (styled-jsx)
 - https://github.com/zeit/next.js#css-in-js
+
+		// "start": "NODE_ENV=production node server.js"
